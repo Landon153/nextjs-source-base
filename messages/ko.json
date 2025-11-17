@@ -1,0 +1,25 @@
+{
+  "Dashboard": {
+    "MenuItem": {
+      "home": "HOME",
+      "general-users": "일반 회원",
+      "withdrawn-users": "탈퇴 회원",
+      "user-management": "회원 관리",
+      "post-management": "게시글 관리",
+      "community-management": "커뮤니티 관리",
+      "report-management": "신고 관리",
+      "block-management": "차단 관리",
+      "report-block-management": "신고/차단 관리",
+      "event-management": "이벤트 관리",
+      "banner-management": "배너 관리",
+      "content-management": "컨텐츠 관리",
+      "cs-management": "CS 관리",
+      "faq-management": "FAQ 관리",
+      "notice-management": "공지사항 관리",
+      "operations-management": "운영 관리",
+      "admin-management": "관리자 관리",
+      "access-logs": "접속 로그",
+      "log-management": "로그 관리"
+    }
+  }
+}

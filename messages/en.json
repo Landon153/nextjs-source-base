@@ -1,0 +1,25 @@
+{
+  "Dashboard": {
+    "MenuItem": {
+      "home": "HOME",
+      "general-users": "General Users",
+      "withdrawn-users": "Withdrawn Users",
+      "user-management": "User Management",
+      "post-management": "Post Management",
+      "community-management": "Community Management",
+      "report-management": "Report Management",
+      "block-management": "Block Management",
+      "report-block-management": "Report/Block Management",
+      "event-management": "Event Management",
+      "banner-management": "Banner Management",
+      "content-management": "Content Management",
+      "cs-management": "CS Management",
+      "faq-management": "FAQ Management",
+      "notice-management": "Notice Management",
+      "operations-management": "Operations Management",
+      "admin-management": "Admin Management",
+      "access-logs": "Access Logs",
+      "log-management": "Log Management"
+    }
+  }
+}
